@@ -1,0 +1,9 @@
+development:
+ adapter: mysql2
+ encoding: utf8
+ database: rocketelevatorsfoundation
+ pool: 5
+ username: joanie
+ host: localhost
+ password: codeboxx
+ port: 3306
